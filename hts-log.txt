@@ -1,0 +1,401 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 11 Dec 2020 18:29:15 at https://www.hypergiant.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.hypergiant.com/ -O1 "C:\Users\AnkitaSingh\Desktop\ajax\intern1\intern1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:29:16	Warning: 	Note: due to https://www.hypergiant.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+18:29:46	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://secure.leadforensics.com/145578.png
+18:29:53	Error: 	"Forbidden" (403) at link https://www.hypergiant.com/xmlrpc.php (from https://www.hypergiant.com/)
+18:29:58	Error: 	"Forbidden" (403) at link https://www.hypergiant.com/xmlrpc.php?rsd (from https://www.hypergiant.com/)
+18:35:02	Warning: 	Moved Permanently for https://www.hypergiant.com/sensory-sciences/
+18:35:02	Warning: 	File has moved from https://www.hypergiant.com/sensory-sciences/ to https://www.hypergiant.com/divisions/sensory-sciences/
+18:35:07	Warning: 	Moved Permanently for https://www.hypergiant.com/galactic/
+18:35:07	Warning: 	File has moved from https://www.hypergiant.com/galactic/ to https://www.hypergiant.com/divisions/galactic/
+18:36:44	Error: 	"Not Found" (404) at link https://www.hypergiant.com/wp-content/themes/hypergiant/dist/assets/images/placeholder.png (from https://www.hypergiant.com/)
+18:36:49	Warning: 	Moved Permanently for https://www.hypergiant.com/client/client-mc-08099-scevo/
+18:36:49	Warning: 	File has moved from https://www.hypergiant.com/client/client-mc-08099-scevo/ to https://www.hypergiant.com/client/client-mc-08099-redacted/
+18:37:11	Error: 	"Not Found" (404) at link https://www.hypergiant.com/wp-content/themes/hypergiant/dist/assets/images/recorded-and-indexed.png (from https://www.hypergiant.com/)
+18:37:36	Error: 	"Not Found" (404) at link https://www.hypergiant.com/GET (from https://www.hypergiant.com/wp-content/themes/hypergiant/dist/scripts/app-a4f4b99abf.bundle.js)
+18:37:36	Error: 	"Not Found" (404) at link https://www.hypergiant.com/wp-content/themes/hypergiant/dist/assets/images/contact/marker-with-dot.png (from https://www.hypergiant.com/wp-content/themes/hypergiant/dist/scripts/app-a4f4b99abf.bundle.js)
+18:37:36	Error: 	"Not Found" (404) at link https://www.hypergiant.com/window.location.href (from https://www.hypergiant.com/wp-content/themes/hypergiant/dist/scripts/app-a4f4b99abf.bundle.js)
+18:37:36	Error: 	"Not Found" (404) at link https://www.hypergiant.com/Trident/ (from https://www.hypergiant.com/wp-content/themes/hypergiant/dist/scripts/app-a4f4b99abf.bundle.js)
+18:37:36	Error: 	"Not Found" (404) at link https://www.hypergiant.com/Edge/ (from https://www.hypergiant.com/wp-content/themes/hypergiant/dist/scripts/app-a4f4b99abf.bundle.js)
+18:37:36	Error: 	"Not Found" (404) at link https://www.hypergiant.com/THREE.CanvasRenderer has been moved to /examples/js/renderers/CanvasRenderer.js (from https://www.hypergiant.com/wp-content/themes/hypergiant/dist/scripts/app-a4f4b99abf.bundle.js)
+18:37:36	Error: 	"Not Found" (404) at link https://www.hypergiant.com/Version/ (from https://www.hypergiant.com/wp-content/themes/hypergiant/dist/scripts/app-a4f4b99abf.bundle.js)
+18:37:36	Error: 	"Not Found" (404) at link https://www.hypergiant.com/version/ (from https://www.hypergiant.com/wp-content/themes/hypergiant/dist/scripts/app-a4f4b99abf.bundle.js)
+18:37:36	Error: 	"Not Found" (404) at link https://www.hypergiant.com/XnD/ (from https://www.hypergiant.com/wp-content/themes/hypergiant/dist/scripts/app-a4f4b99abf.bundle.js)
+18:37:37	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=15
+18:37:37	Warning: 	File has moved from https://www.hypergiant.com/?p=15 to https://www.hypergiant.com/about/
+18:37:37	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=4019
+18:37:37	Warning: 	File has moved from https://www.hypergiant.com/?p=4019 to https://www.hypergiant.com/rd/
+18:38:40	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=5011
+18:38:40	Warning: 	File has moved from https://www.hypergiant.com/?p=5011 to https://www.hypergiant.com/a-better-world/
+18:38:40	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=5105
+18:38:40	Warning: 	File has moved from https://www.hypergiant.com/?p=5105 to https://www.hypergiant.com/ethics/
+18:38:40	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=5054
+18:38:40	Warning: 	File has moved from https://www.hypergiant.com/?p=5054 to https://www.hypergiant.com/partners/
+18:38:40	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=3556
+18:38:40	Warning: 	File has moved from https://www.hypergiant.com/?p=3556 to https://www.hypergiant.com/advisory/
+18:38:41	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=17
+18:38:41	Warning: 	File has moved from https://www.hypergiant.com/?p=17 to https://www.hypergiant.com/case-studies-design-thinking-process/
+18:38:41	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=19
+18:38:41	Warning: 	File has moved from https://www.hypergiant.com/?p=19 to https://www.hypergiant.com/press-page/
+18:38:41	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=21
+18:38:41	Warning: 	File has moved from https://www.hypergiant.com/?p=21 to https://www.hypergiant.com/transcripts/
+18:38:41	Error: 	"Not Found" (404) at link https://www.hypergiant.com/wp-content/themes/hypergiant/dist/assets/images/deleted-pages.png (from https://www.hypergiant.com/transcripts/)
+18:40:02	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=23
+18:40:02	Warning: 	File has moved from https://www.hypergiant.com/?p=23 to https://www.hypergiant.com/careers/
+18:40:02	Error: 	"Not Found" (404) at link https://www.hypergiant.com/wp-content/themes/hypergiant/dist/assets/images/contact/career-stamp.png (from https://www.hypergiant.com/careers/)
+18:40:02	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=25
+18:40:02	Warning: 	File has moved from https://www.hypergiant.com/?p=25 to https://www.hypergiant.com/contact/
+18:40:02	Error: 	"Not Found" (404) at link https://www.hypergiant.com/wp-content/themes/hypergiant/dist/assets/images/contact/hero-stamp.png (from https://www.hypergiant.com/contact/)
+18:40:02	Error: 	"Not Found" (404) at link https://www.hypergiant.com/wp-content/themes/hypergiant/dist/assets/images/contact/signature.png (from https://www.hypergiant.com/contact/)
+18:40:03	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=6323
+18:40:03	Warning: 	File has moved from https://www.hypergiant.com/?p=6323 to https://www.hypergiant.com/signup/
+18:40:03	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=39
+18:40:03	Warning: 	File has moved from https://www.hypergiant.com/?p=39 to https://www.hypergiant.com/divisions/
+18:40:03	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=68
+18:40:03	Warning: 	File has moved from https://www.hypergiant.com/?p=68 to https://www.hypergiant.com/divisions/space-age-solutions/
+18:40:03	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=72
+18:40:03	Warning: 	File has moved from https://www.hypergiant.com/?p=72 to https://www.hypergiant.com/divisions/machine-learning-startups/
+18:40:03	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=41
+18:40:03	Warning: 	File has moved from https://www.hypergiant.com/?p=41 to https://www.hypergiant.com/privacy/
+18:40:03	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=43
+18:40:03	Warning: 	File has moved from https://www.hypergiant.com/?p=43 to https://www.hypergiant.com/terms-of-use/
+18:40:03	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=2193
+18:40:03	Warning: 	File has moved from https://www.hypergiant.com/?p=2193 to https://www.hypergiant.com/divisions/sensory-sciences/
+18:40:03	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=2564
+18:40:03	Warning: 	File has moved from https://www.hypergiant.com/?p=2564 to https://www.hypergiant.com/divisions/galactic/
+18:40:03	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=5357
+18:40:03	Warning: 	File has moved from https://www.hypergiant.com/?p=5357 to https://www.hypergiant.com/client/general-electric-rpa-control-tower/
+18:40:03	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=249
+18:40:03	Warning: 	File has moved from https://www.hypergiant.com/?p=249 to https://www.hypergiant.com/client/rod-lift-inventory-system-ai-consulting/
+18:40:03	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=6777
+18:40:03	Warning: 	File has moved from https://www.hypergiant.com/?p=6777 to https://www.hypergiant.com/client/client-mc-14099-h-i-v-e/
+18:40:03	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=6703
+18:40:03	Warning: 	File has moved from https://www.hypergiant.com/?p=6703 to https://www.hypergiant.com/client/client-mc-11099-redacted/
+18:40:03	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=6655
+18:40:03	Warning: 	File has moved from https://www.hypergiant.com/?p=6655 to https://www.hypergiant.com/client/client-mc-08099-redacted/
+18:40:03	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=5359
+18:40:03	Warning: 	File has moved from https://www.hypergiant.com/?p=5359 to https://www.hypergiant.com/client/apollo-aviation-inventory-crm/
+18:40:03	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=6690
+18:40:03	Warning: 	File has moved from https://www.hypergiant.com/?p=6690 to https://www.hypergiant.com/client/client-mc-10099-redacted/
+18:40:03	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=246
+18:40:03	Warning: 	File has moved from https://www.hypergiant.com/?p=246 to https://www.hypergiant.com/client/case-study-04099-machine-learning-k-nearest-neighbor/
+18:40:03	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=5361
+18:40:03	Warning: 	File has moved from https://www.hypergiant.com/?p=5361 to https://www.hypergiant.com/client/shell-tapup-fueling-application/
+18:40:03	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=6737
+18:40:03	Warning: 	File has moved from https://www.hypergiant.com/?p=6737 to https://www.hypergiant.com/client/client-mc-14099-redacted/
+18:40:03	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=1519
+18:40:03	Warning: 	File has moved from https://www.hypergiant.com/?p=1519 to https://www.hypergiant.com/client/bosch-connectivity-art-installation-machine-learning/
+18:40:03	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=6715
+18:40:03	Warning: 	File has moved from https://www.hypergiant.com/?p=6715 to https://www.hypergiant.com/client/client-mc-12099-chesapeake-energy/
+18:40:03	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=250
+18:40:03	Warning: 	File has moved from https://www.hypergiant.com/?p=250 to https://www.hypergiant.com/client/tgi-fridays-a-i-mixologist-ai-technology/
+18:40:03	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=378
+18:40:03	Warning: 	File has moved from https://www.hypergiant.com/?p=378 to https://www.hypergiant.com/press/how-machine-learning-truly-applies-to-digital-identity/
+18:40:07	Error: 	"Not Found" (404) at link https://www.hypergiant.com/wp-content/themes/hypergiant/dist/assets/images/icon-twt.png (from https://www.hypergiant.com/press/how-machine-learning-truly-applies-to-digital-identity/)
+18:40:07	Error: 	"Not Found" (404) at link https://www.hypergiant.com/wp-content/themes/hypergiant/dist/assets/images/icon-in.png (from https://www.hypergiant.com/press/how-machine-learning-truly-applies-to-digital-identity/)
+18:40:07	Error: 	"Not Found" (404) at link https://www.hypergiant.com/wp-content/themes/hypergiant/dist/assets/images/icon-fb.png (from https://www.hypergiant.com/press/how-machine-learning-truly-applies-to-digital-identity/)
+18:40:07	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=227
+18:40:07	Warning: 	File has moved from https://www.hypergiant.com/?p=227 to https://www.hypergiant.com/job/multimessenger-astrobiologist/
+18:40:09	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=4815
+18:40:09	Warning: 	File has moved from https://www.hypergiant.com/?p=4815 to https://www.hypergiant.com/green/
+18:40:09	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=3542
+18:40:09	Warning: 	File has moved from https://www.hypergiant.com/?p=3542 to https://www.hypergiant.com/embedded-teams/
+18:40:09	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=3480
+18:40:09	Warning: 	File has moved from https://www.hypergiant.com/?p=3480 to https://www.hypergiant.com/ai-transformation/
+18:40:09	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=3447
+18:40:09	Warning: 	File has moved from https://www.hypergiant.com/?p=3447 to https://www.hypergiant.com/manufacturing-solutions/
+18:40:09	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=2023
+18:40:09	Warning: 	File has moved from https://www.hypergiant.com/?p=2023 to https://www.hypergiant.com/machine-intelligence-solution-based-strategy/
+18:40:09	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=2118
+18:40:09	Warning: 	File has moved from https://www.hypergiant.com/?p=2118 to https://www.hypergiant.com/ai-enabled-computer-vision-paves-the-future-of-food-marketing-health/
+18:40:09	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=1985
+18:40:09	Warning: 	File has moved from https://www.hypergiant.com/?p=1985 to https://www.hypergiant.com/supporting-the-evolution-of-the-oil-gas-worker-with-science-design-engineering/
+18:40:09	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=1958
+18:40:09	Warning: 	File has moved from https://www.hypergiant.com/?p=1958 to https://www.hypergiant.com/data-privatization-the-why-and-how-of-turning-users-into-their-own-data-guardians/
+18:40:09	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=2170
+18:40:09	Warning: 	File has moved from https://www.hypergiant.com/?p=2170 to https://www.hypergiant.com/reconstructing-primary-information-from-secondary-information/
+18:40:09	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=2189
+18:40:09	Warning: 	File has moved from https://www.hypergiant.com/?p=2189 to https://www.hypergiant.com/bringing-legacy-airline-planning-up-to-speed-with-machine-intelligence/
+18:40:09	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=6162
+18:40:09	Warning: 	File has moved from https://www.hypergiant.com/?p=6162 to https://www.hypergiant.com/the-brownie-simplex/
+18:40:09	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=6146
+18:40:09	Warning: 	File has moved from https://www.hypergiant.com/?p=6146 to https://www.hypergiant.com/alexa-pardon-me-the-tension-between-anthropomorphization-and-subservience-in-mi/
+18:40:12	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=6140
+18:40:12	Warning: 	File has moved from https://www.hypergiant.com/?p=6140 to https://www.hypergiant.com/welcome-to-the-fourth-industrial-revolution/
+18:40:12	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=6117
+18:40:12	Warning: 	File has moved from https://www.hypergiant.com/?p=6117 to https://www.hypergiant.com/a-world-without-ai-is-scary-progress-isnt/
+18:40:13	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=6091
+18:40:13	Warning: 	File has moved from https://www.hypergiant.com/?p=6091 to https://www.hypergiant.com/why-are-you-still-using-excel/
+18:40:13	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=6061
+18:40:13	Warning: 	File has moved from https://www.hypergiant.com/?p=6061 to https://www.hypergiant.com/product-strategy-bridging-the-chasm-of-frustration/
+18:40:17	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=6075
+18:40:17	Warning: 	File has moved from https://www.hypergiant.com/?p=6075 to https://www.hypergiant.com/the-blockchain-regency-consent-and-consensus/
+18:40:18	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=1674
+18:40:18	Warning: 	File has moved from https://www.hypergiant.com/?p=1674 to https://www.hypergiant.com/investing-ai-balancing-diversification-specialization/
+18:40:22	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=6045
+18:40:22	Warning: 	File has moved from https://www.hypergiant.com/?p=6045 to https://www.hypergiant.com/is-neural-network-hype-killing-machine-learning/
+18:40:24	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=6062
+18:40:24	Warning: 	File has moved from https://www.hypergiant.com/?p=6062 to https://www.hypergiant.com/bias-in-machine-intelligence-changing-the-language/
+18:40:25	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=3642
+18:40:25	Warning: 	File has moved from https://www.hypergiant.com/?p=3642 to https://www.hypergiant.com/how-to-raise-money-for-space-ventures-and-what-it-means-for-the-future-of-fundraising/
+18:40:25	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=1511
+18:40:25	Warning: 	File has moved from https://www.hypergiant.com/?p=1511 to https://www.hypergiant.com/monitor-darkly-normalization-machine-intelligence/
+18:40:25	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=1297
+18:40:25	Warning: 	File has moved from https://www.hypergiant.com/?p=1297 to https://www.hypergiant.com/virtue-explicit-bias-chatbot-dk/
+18:40:25	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=301
+18:40:25	Warning: 	File has moved from https://www.hypergiant.com/?p=301 to https://www.hypergiant.com/press/hypergiant-closes-acquisition-of-vivant-digital-business/
+18:40:27	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=380
+18:40:27	Warning: 	File has moved from https://www.hypergiant.com/?p=380 to https://www.hypergiant.com/press/how-machine-learning-truly-applies-to-digital-identity-3/
+18:40:28	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=225
+18:40:28	Warning: 	File has moved from https://www.hypergiant.com/?p=225 to https://www.hypergiant.com/job/senior-data-fabrication-specialist/
+18:40:29	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=228
+18:40:29	Warning: 	File has moved from https://www.hypergiant.com/?p=228 to https://www.hypergiant.com/job/quantum-cartographer-entry-level/
+18:40:30	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=1926
+18:40:30	Warning: 	File has moved from https://www.hypergiant.com/?p=1926 to https://www.hypergiant.com/capabilities-of-artificial-intelligence/
+18:40:30	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=1796
+18:40:30	Warning: 	File has moved from https://www.hypergiant.com/?p=1796 to https://www.hypergiant.com/machine-learning-as-a-service-mlaas/
+18:40:30	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=1914
+18:40:30	Warning: 	File has moved from https://www.hypergiant.com/?p=1914 to https://www.hypergiant.com/ai-development/
+18:40:30	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=1526
+18:40:30	Warning: 	File has moved from https://www.hypergiant.com/?p=1526 to https://www.hypergiant.com/machine-intelligence-applications/
+18:40:30	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=1779
+18:40:30	Warning: 	File has moved from https://www.hypergiant.com/?p=1779 to https://www.hypergiant.com/blockchain-strategy/
+18:40:30	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=1584
+18:40:30	Warning: 	File has moved from https://www.hypergiant.com/?p=1584 to https://www.hypergiant.com/ai-machine-learning/
+18:40:30	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=1677
+18:40:30	Warning: 	File has moved from https://www.hypergiant.com/?p=1677 to https://www.hypergiant.com/what-is-deep-learning/
+18:40:30	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=1605
+18:40:30	Warning: 	File has moved from https://www.hypergiant.com/?p=1605 to https://www.hypergiant.com/what-is-machine-learning/
+18:40:30	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=1725
+18:40:30	Warning: 	File has moved from https://www.hypergiant.com/?p=1725 to https://www.hypergiant.com/machine-learning-techniques/
+18:40:30	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=1898
+18:40:30	Warning: 	File has moved from https://www.hypergiant.com/?p=1898 to https://www.hypergiant.com/ai-programming/
+18:40:30	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=295
+18:40:30	Warning: 	File has moved from https://www.hypergiant.com/?p=295 to https://www.hypergiant.com/press/new-machine-learning-co-from-the-past-3/
+18:40:31	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=379
+18:40:31	Warning: 	File has moved from https://www.hypergiant.com/?p=379 to https://www.hypergiant.com/press/how-machine-learning-truly-applies-to-digital-identity-2/
+18:40:33	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=206
+18:40:33	Warning: 	File has moved from https://www.hypergiant.com/?p=206 to https://www.hypergiant.com/job/junior-hilbert-scheme-expert/
+18:40:34	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=229
+18:40:34	Warning: 	File has moved from https://www.hypergiant.com/?p=229 to https://www.hypergiant.com/job/senior-multimessenger-astrophysicist/
+18:40:35	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=289
+18:40:35	Warning: 	File has moved from https://www.hypergiant.com/?p=289 to https://www.hypergiant.com/press/new-machine-learning-co-from-the-past-2/
+18:40:36	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=1276
+18:40:36	Warning: 	File has moved from https://www.hypergiant.com/?p=1276 to https://www.hypergiant.com/press/back-to-the-future/
+18:40:37	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=205
+18:40:37	Warning: 	File has moved from https://www.hypergiant.com/?p=205 to https://www.hypergiant.com/job/senior-calabi-yau-manifold-engineer/
+18:40:38	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=310
+18:40:38	Warning: 	File has moved from https://www.hypergiant.com/?p=310 to https://www.hypergiant.com/job/solutions-architect/
+18:40:39	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=298
+18:40:39	Warning: 	File has moved from https://www.hypergiant.com/?p=298 to https://www.hypergiant.com/press/hypergiant-introduces-industry-platform-designed-specifically-for-insurers/
+18:40:40	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=1239
+18:40:40	Warning: 	File has moved from https://www.hypergiant.com/?p=1239 to https://www.hypergiant.com/press/dallas-serial-entrepreneur-ben-lamm-launches-artificial-intelligence-startup/
+18:40:41	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=204
+18:40:41	Warning: 	File has moved from https://www.hypergiant.com/?p=204 to https://www.hypergiant.com/job/inverse-de-rahm-cohomology-researcher/
+18:40:42	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=311
+18:40:42	Warning: 	File has moved from https://www.hypergiant.com/?p=311 to https://www.hypergiant.com/job/solutions-architect-full-stack/
+18:40:43	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=297
+18:40:43	Warning: 	File has moved from https://www.hypergiant.com/?p=297 to https://www.hypergiant.com/press/hypergiant-reports-2017-third-quarter-result/
+18:40:45	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=1240
+18:40:45	Warning: 	File has moved from https://www.hypergiant.com/?p=1240 to https://www.hypergiant.com/press/hypergiant-emerges-from-stealth-mode-to-create-ai-products/
+18:40:46	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=203
+18:40:46	Warning: 	File has moved from https://www.hypergiant.com/?p=203 to https://www.hypergiant.com/job/global-creative-lead/
+18:40:46	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=312
+18:40:46	Warning: 	File has moved from https://www.hypergiant.com/?p=312 to https://www.hypergiant.com/job/solutions-architect-dev-ops/
+18:40:47	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=296
+18:40:47	Warning: 	File has moved from https://www.hypergiant.com/?p=296 to https://www.hypergiant.com/press/hypergiant-transforms-flashsystem-to-help-drive-down-the-cost-of-data/
+18:40:48	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=1248
+18:40:48	Warning: 	File has moved from https://www.hypergiant.com/?p=1248 to https://www.hypergiant.com/press/readitquik/
+18:40:49	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=313
+18:40:49	Warning: 	File has moved from https://www.hypergiant.com/?p=313 to https://www.hypergiant.com/job/project-manager/
+18:40:50	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=299
+18:40:50	Warning: 	File has moved from https://www.hypergiant.com/?p=299 to https://www.hypergiant.com/press/hypergiant-announces-advances-to-hypergiant-quantum-systems-ecosystem/
+18:40:50	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=1275
+18:40:50	Warning: 	File has moved from https://www.hypergiant.com/?p=1275 to https://www.hypergiant.com/press/tx-tech-luxe-co-working-mass-challenge-rvshare-hypergiant/
+18:40:51	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=314
+18:40:51	Warning: 	File has moved from https://www.hypergiant.com/?p=314 to https://www.hypergiant.com/job/content-strategist-content-designer/
+18:40:52	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=1278
+18:40:52	Warning: 	File has moved from https://www.hypergiant.com/?p=1278 to https://www.hypergiant.com/press/ben-lamm-unconventional-approach-business-somehow-works/
+18:40:53	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=321
+18:40:53	Warning: 	File has moved from https://www.hypergiant.com/?p=321 to https://www.hypergiant.com/job/data-scientist-research-scientist-research-engineer/
+18:40:54	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=1289
+18:40:54	Warning: 	File has moved from https://www.hypergiant.com/?p=1289 to https://www.hypergiant.com/press/marketers-arent-yet-artificial-intelligence/
+18:40:55	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=327
+18:40:55	Warning: 	File has moved from https://www.hypergiant.com/?p=327 to https://www.hypergiant.com/job/senior-applied-research-developer/
+18:40:56	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=1290
+18:40:56	Warning: 	File has moved from https://www.hypergiant.com/?p=1290 to https://www.hypergiant.com/press/artificial-intelligence-concierge-wants-to-serve-fortune-500-companies/
+18:40:57	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=328
+18:40:57	Warning: 	File has moved from https://www.hypergiant.com/?p=328 to https://www.hypergiant.com/job/junior-applied-research-developer/
+18:40:58	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=1647
+18:40:58	Warning: 	File has moved from https://www.hypergiant.com/?p=1647 to https://www.hypergiant.com/press/hypergiant-brings-former-youearnedit-cto-lead-ai-team/
+18:40:59	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=330
+18:40:59	Warning: 	File has moved from https://www.hypergiant.com/?p=330 to https://www.hypergiant.com/job/software-account-manager/
+18:41:00	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=1648
+18:41:00	Warning: 	File has moved from https://www.hypergiant.com/?p=1648 to https://www.hypergiant.com/press/hypergiant-adds-another-former-chaotic-moon-exec-team/
+18:41:01	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=335
+18:41:01	Warning: 	File has moved from https://www.hypergiant.com/?p=335 to https://www.hypergiant.com/job/strategist-senior-strategist/
+18:41:02	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=1974
+18:41:02	Warning: 	File has moved from https://www.hypergiant.com/?p=1974 to https://www.hypergiant.com/press/tgi-fridays-ai-powered-marketing-drives-150-million-with-virtual-bartenders-and-more/
+18:41:03	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=348
+18:41:03	Warning: 	File has moved from https://www.hypergiant.com/?p=348 to https://www.hypergiant.com/job/senior-ux-designer-ux-designer/
+18:41:05	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=2004
+18:41:05	Warning: 	File has moved from https://www.hypergiant.com/?p=2004 to https://www.hypergiant.com/press/interview-with-ben-lamm-founder-chairman-and-ceo-at-hypergiant/
+18:41:06	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=350
+18:41:06	Warning: 	File has moved from https://www.hypergiant.com/?p=350 to https://www.hypergiant.com/job/senior-visual-designer-junior-visual-designer/
+18:41:07	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=2110
+18:41:07	Warning: 	File has moved from https://www.hypergiant.com/?p=2110 to https://www.hypergiant.com/press/hypergiant-included-in-2018-cnbc-upstart-100/
+18:41:10	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=1035
+18:41:10	Warning: 	File has moved from https://www.hypergiant.com/?p=1035 to https://www.hypergiant.com/job/junior-visual-designer/
+18:41:12	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=2320
+18:41:12	Warning: 	File has moved from https://www.hypergiant.com/?p=2320 to https://www.hypergiant.com/press/hypergiant-sensory-sciences-launches/
+18:41:15	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=1041
+18:41:15	Warning: 	File has moved from https://www.hypergiant.com/?p=1041 to https://www.hypergiant.com/job/ux-designer/
+18:41:16	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=2322
+18:41:16	Warning: 	File has moved from https://www.hypergiant.com/?p=2322 to https://www.hypergiant.com/press/hypergiants-new-ai-startup-tunes-into-our-physical-world/
+18:41:19	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=1042
+18:41:19	Warning: 	File has moved from https://www.hypergiant.com/?p=1042 to https://www.hypergiant.com/job/strategist/
+18:41:20	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=2324
+18:41:20	Warning: 	File has moved from https://www.hypergiant.com/?p=2324 to https://www.hypergiant.com/press/sensory-sciences-hypergiants-new-ai-startup-teaches-machines-to-learn-how-to-learn/
+18:41:21	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=1302
+18:41:21	Warning: 	File has moved from https://www.hypergiant.com/?p=1302 to https://www.hypergiant.com/job/ai-fellow/
+18:41:22	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=2327
+18:41:22	Warning: 	File has moved from https://www.hypergiant.com/?p=2327 to https://www.hypergiant.com/press/hypergiant-sensory-sciences-raises-5-million-to-track-critical-infrastructure-with-ai/
+18:41:23	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=2122
+18:41:23	Warning: 	File has moved from https://www.hypergiant.com/?p=2122 to https://www.hypergiant.com/job/lead-hybris-developer/
+18:41:24	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=2330
+18:41:24	Warning: 	File has moved from https://www.hypergiant.com/?p=2330 to https://www.hypergiant.com/press/hypergiant-keeps-adding-ai-companies/
+18:41:26	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=2123
+18:41:26	Warning: 	File has moved from https://www.hypergiant.com/?p=2123 to https://www.hypergiant.com/job/hybris-developer/
+18:41:27	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=2345
+18:41:27	Warning: 	File has moved from https://www.hypergiant.com/?p=2345 to https://www.hypergiant.com/press/hypergiant-space-age-solutions-acquires-software-developer-black-pixel/
+18:41:28	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=2124
+18:41:28	Warning: 	File has moved from https://www.hypergiant.com/?p=2124 to https://www.hypergiant.com/job/hybris-front-end-developer/
+18:41:29	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=2347
+18:41:29	Warning: 	File has moved from https://www.hypergiant.com/?p=2347 to https://www.hypergiant.com/press/ai-focused-tech-studio-hypergiant-acquires-seattle-based-app-developer-black-pixel/
+18:41:30	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=2373
+18:41:30	Warning: 	File has moved from https://www.hypergiant.com/?p=2373 to https://www.hypergiant.com/job/sr-backend-engineer-node-js/
+18:41:31	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=2348
+18:41:31	Warning: 	File has moved from https://www.hypergiant.com/?p=2348 to https://www.hypergiant.com/press/hypergiant-space-age-solutions-acquires-custom-software-studio/
+18:41:32	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=2375
+18:41:32	Warning: 	File has moved from https://www.hypergiant.com/?p=2375 to https://www.hypergiant.com/job/sr-front-end-web-developer/
+18:41:33	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=2349
+18:41:33	Warning: 	File has moved from https://www.hypergiant.com/?p=2349 to https://www.hypergiant.com/press/hypergiant-acquires-seattle-startup-with-15m-in-revenue/
+18:41:35	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=2376
+18:41:35	Warning: 	File has moved from https://www.hypergiant.com/?p=2376 to https://www.hypergiant.com/job/sr-distributed-data-architect/
+18:41:36	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=2350
+18:41:36	Warning: 	File has moved from https://www.hypergiant.com/?p=2350 to https://www.hypergiant.com/press/austins-hypergiant-acquires-seattle-based-app-developer-black-pixel/
+18:41:37	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=3466
+18:41:37	Warning: 	File has moved from https://www.hypergiant.com/?p=3466 to https://www.hypergiant.com/job/front-end-web-developer/
+18:41:37	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=2355
+18:41:37	Warning: 	File has moved from https://www.hypergiant.com/?p=2355 to https://www.hypergiant.com/press/with-artificial-intelligence-dallas-startup-aims-to-catch-threats-that-humans-alone-might-miss/
+18:41:39	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=3372
+18:41:39	Warning: 	File has moved from https://www.hypergiant.com/?p=3372 to https://www.hypergiant.com/press/hypergiant-deal-boosts-ai-in-space-city/
+18:41:44	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=3402
+18:41:44	Warning: 	File has moved from https://www.hypergiant.com/?p=3402 to https://www.hypergiant.com/press/orbital-ai-is-the-stated-goal-of-hypergiant-industries-as-the-company-launches-their-galactic-systems-division/
+18:41:46	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=3404
+18:41:46	Warning: 	File has moved from https://www.hypergiant.com/?p=3404 to https://www.hypergiant.com/press/hypergiant-launches-ai-into-space-with-new-division-acquisition-of-seops-2/
+18:41:48	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=3426
+18:41:48	Warning: 	File has moved from https://www.hypergiant.com/?p=3426 to https://www.hypergiant.com/press/how-one-satellite-acquisition-just-changed-the-future-of-ai/
+18:41:50	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=3457
+18:41:50	Warning: 	File has moved from https://www.hypergiant.com/?p=3457 to https://www.hypergiant.com/press/space-data-hypergiant-will-help-create-an-interplanetary-internet/
+18:41:52	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=3458
+18:41:52	Warning: 	File has moved from https://www.hypergiant.com/?p=3458 to https://www.hypergiant.com/press/exclusive-an-interplanetary-internet-could-be-here-sooner-than-you-think/
+18:41:54	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=3461
+18:41:54	Warning: 	File has moved from https://www.hypergiant.com/?p=3461 to https://www.hypergiant.com/press/hypergiant-adds-tech-industry-veterans-to-its-staff/
+18:41:57	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=3477
+18:41:57	Warning: 	File has moved from https://www.hypergiant.com/?p=3477 to https://www.hypergiant.com/press/what-space-teaches-us-about-being-human/
+18:41:59	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=3474
+18:41:59	Warning: 	File has moved from https://www.hypergiant.com/?p=3474 to https://www.hypergiant.com/press/houston-company-solving-the-next-problem-of-deep-space-travel-how-to-post-to-instagram/
+18:42:01	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=3508
+18:42:01	Warning: 	File has moved from https://www.hypergiant.com/?p=3508 to https://www.hypergiant.com/press/hypergiant-uses-satellites-and-ai-to-mine-oil-and-gas-data/
+18:42:03	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=3493
+18:42:03	Warning: 	File has moved from https://www.hypergiant.com/?p=3493 to https://www.hypergiant.com/press/ben-lamm-ceo-of-hypergiant-a-dotcom-magazine-exclusive-interview-dotcom-magazine-influencers-and-entrepreneurs-making-news/
+18:42:05	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=3511
+18:42:05	Warning: 	File has moved from https://www.hypergiant.com/?p=3511 to https://www.hypergiant.com/press/hypergiant-aims-to-dominate-the-ai-industry-on-earth-and-in-space/
+18:42:07	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=3509
+18:42:07	Warning: 	File has moved from https://www.hypergiant.com/?p=3509 to https://www.hypergiant.com/press/this-agency-built-its-own-hologram-pitch-deck-to-explain-artificial-intelligence/
+18:42:09	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=3537
+18:42:09	Warning: 	File has moved from https://www.hypergiant.com/?p=3537 to https://www.hypergiant.com/press/hypergiant-industries-gains-funding-from-sumitomo-corp-of-americas-perot-jain/
+18:42:12	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=3516
+18:42:12	Warning: 	File has moved from https://www.hypergiant.com/?p=3516 to https://www.hypergiant.com/press/next-gen-spacesuit-helmet-has-an-iron-man-heads-up-display/
+18:42:14	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=3539
+18:42:14	Warning: 	File has moved from https://www.hypergiant.com/?p=3539 to https://www.hypergiant.com/press/startup-that-aims-to-dominate-new-space-race-raises-funds-from-sumitomo-and-perot-jain/
+18:42:15	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=3638
+18:42:15	Warning: 	File has moved from https://www.hypergiant.com/?p=3638 to https://www.hypergiant.com/press/hypergiant-announces-board-to-include-science-advisor-bill-nye-former-astronaut-andy-allen-and-retired-four-star-general-lance-lord/
+18:42:20	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=3640
+18:42:20	Warning: 	File has moved from https://www.hypergiant.com/?p=3640 to https://www.hypergiant.com/press/hypergiant-brings-on-bill-nye-as-an-advisor/
+18:42:21	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=3926
+18:42:21	Warning: 	File has moved from https://www.hypergiant.com/?p=3926 to https://www.hypergiant.com/press/hypergiant-companies-dont-top-support-ai-initiatives-will-fail-miserably/
+18:42:23	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=3928
+18:42:23	Warning: 	File has moved from https://www.hypergiant.com/?p=3928 to https://www.hypergiant.com/press/hypergiants-new-vp-ethics-diversity-ai-ethical-ai-good-business/
+18:42:26	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=4338
+18:42:26	Warning: 	File has moved from https://www.hypergiant.com/?p=4338 to https://www.hypergiant.com/press/musk-reads-spacexs-mars-city-gets-interplanetary-internet/
+18:42:29	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=4336
+18:42:29	Warning: 	File has moved from https://www.hypergiant.com/?p=4336 to https://www.hypergiant.com/press/can-hypergiant-actually-build-an-intergalactic-internet/
+18:42:54	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=4340
+18:42:54	Warning: 	File has moved from https://www.hypergiant.com/?p=4340 to https://www.hypergiant.com/press/ai-company-hypergiant-help-consulting-firm-turn-intellectual-property-products/
+18:42:59	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=4346
+18:42:59	Warning: 	File has moved from https://www.hypergiant.com/?p=4346 to https://www.hypergiant.com/press/iron-man-like-helmet-augmented-reality-aid-search-rescue-teams/
+18:43:00	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=4889
+18:43:00	Warning: 	File has moved from https://www.hypergiant.com/?p=4889 to https://www.hypergiant.com/press/new-bioreactor-captures-much-carbon-acre-trees/
+18:43:02	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=4890
+18:43:02	Warning: 	File has moved from https://www.hypergiant.com/?p=4890 to https://www.hypergiant.com/press/personal-carbon-sequestration-device-uses-algae-remove-co2-air/
+18:43:04	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=4891
+18:43:04	Warning: 	File has moved from https://www.hypergiant.com/?p=4891 to https://www.hypergiant.com/press/new-algae-based-bioreactor-can-swallow-carbon-dioxide-400x-faster-trees/
+18:43:06	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=4892
+18:43:06	Warning: 	File has moved from https://www.hypergiant.com/?p=4892 to https://www.hypergiant.com/press/hypergiants-new-weapon-climate-change-algae-growing-cubes/
+18:43:08	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=4973
+18:43:08	Warning: 	File has moved from https://www.hypergiant.com/?p=4973 to https://www.hypergiant.com/press/hypergiant-partners-dynetics-deliver-space-data-companies-faster-smarter/
+18:43:10	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=4991
+18:43:10	Warning: 	File has moved from https://www.hypergiant.com/?p=4991 to https://www.hypergiant.com/press/texas-based-company-works-boost-disaster-response-ai/
+18:43:12	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=4993
+18:43:12	Warning: 	File has moved from https://www.hypergiant.com/?p=4993 to https://www.hypergiant.com/press/hypergiant-ai-model-aims-improve-disaster-search-rescue/
+18:43:15	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=5000
+18:43:15	Warning: 	File has moved from https://www.hypergiant.com/?p=5000 to https://www.hypergiant.com/press/smart-cities-can-help-us-tackle-climate-crisis-part-two/
+18:43:18	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=5227
+18:43:18	Warning: 	File has moved from https://www.hypergiant.com/?p=5227 to https://www.hypergiant.com/press/hypergiant-bioreactor-combines-ai-algae-combat-climate-change/
+18:43:20	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=5230
+18:43:20	Warning: 	File has moved from https://www.hypergiant.com/?p=5230 to https://www.hypergiant.com/press/researchers-built-ai-technology-that-uses-algae-fight-climate-change-theyre-planning-releasing-design-anyone-can-build-one/
+18:43:22	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=5427
+18:43:22	Warning: 	File has moved from https://www.hypergiant.com/?p=5427 to https://www.hypergiant.com/press/cygnus-departs-space-station-deploys-cubesats/
+18:43:24	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=5425
+18:43:24	Warning: 	File has moved from https://www.hypergiant.com/?p=5425 to https://www.hypergiant.com/press/one-texas-entrepreneur-aims-transform-world-artificial-intelligence/
+18:43:27	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=5421
+18:43:27	Warning: 	File has moved from https://www.hypergiant.com/?p=5421 to https://www.hypergiant.com/press/ai-satellites-drones-help-plant-trillion-trees/
+18:43:29	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=5423
+18:43:29	Warning: 	File has moved from https://www.hypergiant.com/?p=5423 to https://www.hypergiant.com/press/hypergiant-using-ai-algae-take-climate-change/
+18:43:31	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=5803
+18:43:31	Warning: 	File has moved from https://www.hypergiant.com/?p=5803 to https://www.hypergiant.com/press/austins-hypergiant-industries-aims-build-space-supply-chain/
+18:43:33	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=5813
+18:43:33	Warning: 	File has moved from https://www.hypergiant.com/?p=5813 to https://www.hypergiant.com/press/ben-lamm-and-hypergiant-want-to-bring-space-back-to-the-future/
+18:43:35	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=6408
+18:43:35	Warning: 	File has moved from https://www.hypergiant.com/?p=6408 to https://www.hypergiant.com/press/space-innovation-hypergiants-new-ai-driven-remote-satellite-operations-aka-h-i-v-e-keeps-eyes-on-the-sky/
+18:43:37	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=6775
+18:43:37	Warning: 	File has moved from https://www.hypergiant.com/?p=6775 to https://www.hypergiant.com/press/how-this-ai-company-is-working-to-transform-space-exploration-in-an-age-of-global-pandemic/
+18:43:40	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=6752
+18:43:40	Warning: 	File has moved from https://www.hypergiant.com/?p=6752 to https://www.hypergiant.com/press/ben-lamm-of-hypergiant-industries-to-get-the-impossible-done/
+18:43:41	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=6328
+18:43:41	Warning: 	File has moved from https://www.hypergiant.com/?p=6328 to https://www.hypergiant.com/press/hypergiant-might-be-the-real-life-version-of-marvels-stark-industries/
+18:43:43	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=6963
+18:43:43	Warning: 	File has moved from https://www.hypergiant.com/?p=6963 to https://www.hypergiant.com/press/upgradeable-birds-af-taps-hypergiant-for-reconfigurable-satellites/
+18:43:45	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=6762
+18:43:45	Warning: 	File has moved from https://www.hypergiant.com/?p=6762 to https://www.hypergiant.com/press/cultivating-curiosity-is-what-drives-innovation/
+18:43:46	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=6986
+18:43:46	Warning: 	File has moved from https://www.hypergiant.com/?p=6986 to https://www.hypergiant.com/press/air-force-readies-launch-of-in-orbit-network-to-support-ai-applications-in-space/
+18:43:48	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=7117
+18:43:48	Warning: 	File has moved from https://www.hypergiant.com/?p=7117 to https://www.hypergiant.com/press/10-ways-ai-is-making-a-difference-in-the-satellite-industry/
+18:43:50	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=7119
+18:43:50	Warning: 	File has moved from https://www.hypergiant.com/?p=7119 to https://www.hypergiant.com/press/20-minutes-with-hypergiant-industries-chief-ethics-officer-will-griffin-on-diversity-and-ethics-in-technology/
+18:43:52	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=7121
+18:43:52	Warning: 	File has moved from https://www.hypergiant.com/?p=7121 to https://www.hypergiant.com/press/new-tech-chief-of-startup-hypergiant-envisions-closer-human-ai-collaboration/
+18:43:54	Warning: 	Moved Permanently for https://www.hypergiant.com/?p=7123
+18:43:54	Warning: 	File has moved from https://www.hypergiant.com/?p=7123 to https://www.hypergiant.com/press/hypergiant-seeks-the-future-we-once-imagined/
+
+HTTrack Website Copier/3.49-2 mirror complete in 14 minutes 39 seconds : 1513 links scanned, 1308 files written (335883826 bytes overall) [327248681 bytes received at 372296 bytes/sec], 13884876 bytes transferred using HTTP compression in 610 files, ratio 24%, 34.6 requests per connection
+(20 errors, 370 warnings, 0 messages)
